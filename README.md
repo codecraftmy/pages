@@ -1,4 +1,6 @@
 pages
 =====
 
-Codecraft Studio Page
+Codecraft Studio
+
+http://codecraftmy.github.io/pages/
